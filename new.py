@@ -10,4 +10,4 @@ with open (name_file , 'r') as f:
    username = json.load(f)
    print(f"Hi {username} welcome back")
 print("This is the end of with block")
-print(f"This is end of file")
+print("This is end of file")
